@@ -1,0 +1,12 @@
+F:\_Clouds\GitHub\SPO\SPO_4_4\SPO_4_4\bin\Debug\SPO_4_4.exe.config
+F:\_Clouds\GitHub\SPO\SPO_4_4\SPO_4_4\bin\Debug\SPO_4_4.exe
+F:\_Clouds\GitHub\SPO\SPO_4_4\SPO_4_4\bin\Debug\SPO_4_4.pdb
+F:\_Clouds\GitHub\SPO\SPO_4_4\SPO_4_4\obj\Debug\SPO_4_4.csprojResolveAssemblyReference.cache
+F:\_Clouds\GitHub\SPO\SPO_4_4\SPO_4_4\obj\Debug\SPO_4_4.exe
+F:\_Clouds\GitHub\SPO\SPO_4_4\SPO_4_4\obj\Debug\SPO_4_4.pdb
+D:\_VCS\GitHub\SPO\SPO_4_4\SPO_4_4\bin\Debug\SPO_4_4.exe.config
+D:\_VCS\GitHub\SPO\SPO_4_4\SPO_4_4\obj\Debug\SPO_4_4.exe
+D:\_VCS\GitHub\SPO\SPO_4_4\SPO_4_4\obj\Debug\SPO_4_4.pdb
+D:\_VCS\GitHub\SPO\SPO_4_4\SPO_4_4\bin\Debug\SPO_4_4.exe
+D:\_VCS\GitHub\SPO\SPO_4_4\SPO_4_4\bin\Debug\SPO_4_4.pdb
+D:\_VCS\GitHub\SPO\SPO_4_4\SPO_4_4\obj\Debug\SPO_4_4.csprojResolveAssemblyReference.cache
